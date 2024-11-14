@@ -1,0 +1,152 @@
+[
+  {
+    "longName": "Africa (Cape Town)",
+    "name": "Cape Town",
+    "domain": "s3.af-south-1.amazonaws.com"
+  },
+  {
+    "longName": "Asia Pacific (Hong Kong)",
+    "name": "Hong Kong",
+    "domain": "s3.ap-east-1.amazonaws.com"
+  },
+  {
+    "longName": "Asia Pacific (Tokyo)",
+    "name": "Tokyo",
+    "domain": "s3.ap-northeast-1.amazonaws.com"
+  },
+  {
+    "longName": "Asia Pacific (Seoul)",
+    "name": "Seoul",
+    "domain": "s3.ap-northeast-2.amazonaws.com"
+  },
+  {
+    "longName": "Asia Pacific (Osaka)",
+    "name": "Osaka",
+    "domain": "s3.ap-northeast-3.amazonaws.com"
+  },
+  {
+    "longName": "Asia Pacific (Mumbai)",
+    "name": "Mumbai",
+    "domain": "s3.ap-south-1.amazonaws.com"
+  },
+  {
+    "longName": "Asia Pacific (Hyderabad)",
+    "name": "Hyderabad",
+    "domain": "s3.ap-south-2.amazonaws.com"
+  },
+  {
+    "longName": "Asia Pacific (Singapore)",
+    "name": "Singapore",
+    "domain": "s3.ap-southeast-1.amazonaws.com"
+  },
+  {
+    "longName": "Asia Pacific (Sydney)",
+    "name": "Sydney",
+    "domain": "s3.ap-southeast-2.amazonaws.com"
+  },
+  {
+    "longName": "Asia Pacific (Jakarta)",
+    "name": "Jakarta",
+    "domain": "s3.ap-southeast-3.amazonaws.com"
+  },
+  {
+    "longName": "Asia Pacific (Melbourne)",
+    "name": "Melbourne",
+    "domain": "s3.ap-southeast-4.amazonaws.com"
+  },
+  {
+    "longName": "Asia Pacific (Malaysia)",
+    "name": "Malaysia",
+    "domain": "s3.ap-southeast-5.amazonaws.com"
+  },
+  {
+    "longName": "Canada (Central)",
+    "name": "Central",
+    "domain": "s3.ca-central-1.amazonaws.com"
+  },
+  {
+    "longName": "Canada West (Calgary)",
+    "name": "Calgary",
+    "domain": "s3.ca-west-1.amazonaws.com"
+  },
+  {
+    "longName": "Europe (Frankfurt)",
+    "name": "Frankfurt",
+    "domain": "s3.eu-central-1.amazonaws.com"
+  },
+  {
+    "longName": "Europe (Zurich)",
+    "name": "Zurich",
+    "domain": "s3.eu-central-2.amazonaws.com"
+  },
+  {
+    "longName": "Europe (Stockholm)",
+    "name": "Stockholm",
+    "domain": "s3.eu-north-1.amazonaws.com"
+  },
+  {
+    "longName": "Europe (Milan)",
+    "name": "Milan",
+    "domain": "s3.eu-south-1.amazonaws.com"
+  },
+  {
+    "longName": "Europe (Spain)",
+    "name": "Spain",
+    "domain": "s3.eu-south-2.amazonaws.com"
+  },
+  {
+    "longName": "Europe (Ireland)",
+    "name": "Ireland",
+    "domain": "s3.eu-west-1.amazonaws.com"
+  },
+  {
+    "longName": "Europe (London)",
+    "name": "London",
+    "domain": "s3.eu-west-2.amazonaws.com"
+  },
+  {
+    "longName": "Europe (Paris)",
+    "name": "Paris",
+    "domain": "s3.eu-west-3.amazonaws.com"
+  },
+  {
+    "longName": "Israel (Tel Aviv)",
+    "name": "Tel Aviv",
+    "domain": "s3.il-central-1.amazonaws.com"
+  },
+  {
+    "longName": "Middle East (UAE)",
+    "name": "UAE",
+    "domain": "s3.me-central-1.amazonaws.com"
+  },
+  {
+    "longName": "Middle East (Bahrain)",
+    "name": "Bahrain",
+    "domain": "s3.me-south-1.amazonaws.com"
+  },
+  {
+    "longName": "South America (Sao Paulo)",
+    "name": "Sao Paulo",
+    "domain": "s3.sa-east-1.amazonaws.com"
+  },
+  {
+    "longName": "US East (N. Virginia)",
+    "name": "N. Virginia",
+    "domain": "s3.us-east-1.amazonaws.com"
+  },
+  {
+    "longName": "US East (Ohio)",
+    "name": "Ohio",
+    "domain": "s3.us-east-2.amazonaws.com"
+  },
+  {
+    "longName": "US West (N. California)",
+    "name": "N. California",
+    "domain": "s3.us-west-1.amazonaws.com"
+  },
+  {
+    "longName": "US West (Oregon)",
+    "name": "Oregon",
+    "domain": "s3.us-west-2.amazonaws.com"
+  }
+]
